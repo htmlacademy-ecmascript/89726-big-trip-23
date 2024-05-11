@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Антон Рычков](https://up.htmlacademy.ru/ecmascript/23/user/89726).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Именин](https://htmlacademy.ru/profile/aimenin).
 
 ---
 
